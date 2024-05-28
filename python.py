@@ -1,4 +1,2 @@
-print("hello world")
-my name is abhay mishra 
-import turtle 
-2 + 3 
+hii, my name is sonu mishra 
+i am a coder
